@@ -10,5 +10,5 @@ class Student < User
 
   def knowledge
     @knowledge
-    edn
+  end
 end
