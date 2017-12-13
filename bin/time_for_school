@@ -26,3 +26,4 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 emily = Student.new
 emily.learn(some_knowledge)
+puts "Emily just learned this important knowledge: #{emily.knowledge} from Avi."
